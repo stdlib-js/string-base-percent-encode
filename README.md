@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@deno/mod.js';
+import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@v0.0.2-deno/mod.js';
 ```
 
 #### percentEncode( str )
@@ -85,7 +85,7 @@ var out = percentEncode( '☃' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@deno/mod.js';
+import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@v0.0.2-deno/mod.js';
 
 var values = [
     'Ladies + Gentlemen',
