@@ -41,6 +41,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-percent-encode/tags). For example,
+
+```javascript
 import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@v0.0.2-esm/index.mjs';
 ```
 
@@ -90,7 +95,7 @@ var out = percentEncode( '☃' );
 <body>
 <script type="module">
 
-import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@v0.0.2-esm/index.mjs';
+import percentEncode from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-percent-encode@esm/index.mjs';
 
 var values = [
     'Ladies + Gentlemen',
