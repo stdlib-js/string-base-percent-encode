@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-percent-encode",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Percent-encode a UTF-16 encoded string according to RFC 3986.",
   "license": "Apache-2.0",
   "author": {
@@ -37,11 +37,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/string-utf16-to-utf8-array": "^0.0.8"
+    "@stdlib/string-utf16-to-utf8-array": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-string": "^0.0.8",
-    "@stdlib/bench": "^0.0.12",
+    "@stdlib/assert-is-string": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
