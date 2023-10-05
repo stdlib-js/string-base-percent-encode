@@ -187,8 +187,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/string-base-percent-encode.svg
 [npm-url]: https://npmjs.org/package/@stdlib/string-base-percent-encode
 
-[test-image]: https://github.com/stdlib-js/string-base-percent-encode/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/string-base-percent-encode/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/string-base-percent-encode/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/string-base-percent-encode/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/string-base-percent-encode/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/string-base-percent-encode?branch=main
