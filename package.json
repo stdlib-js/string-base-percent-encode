@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-percent-encode",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Percent-encode a UTF-16 encoded string according to RFC 3986.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/string-utf16-to-utf8-array": "^0.1.1"
+    "@stdlib/string-utf16-to-utf8-array": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.1.1",
